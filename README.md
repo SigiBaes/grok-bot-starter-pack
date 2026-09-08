@@ -45,5 +45,17 @@ If you want someone to install + tune these bots for you:
 - **€29** — install one persona + first-wake check  
 - **€72** — full pack install + light customization  
 
-Pay: [Revolut.me/sigiedn4xr](https://revolut.me/sigiedn4xr)  
+### Card / peer (Revolut)
+
+[revolut.me/sigiedn4xr](https://revolut.me/sigiedn4xr)
+
+### Bank / Wise transfer (EUR)
+
+| | |
+|---|---|
+| Beneficiary | Sigi Edward R Baes |
+| IBAN | `BE35 6501 9555 3037` |
+| BIC | `REVOBEB2` |
+| Correspondent BIC | `CHASDEFX` |
+
 Product above works without paying.
