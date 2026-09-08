@@ -2,7 +2,7 @@
 
 Copy-paste ready **one-job** Grok Bot personas. Draft-only where it matters (no silent sends). Useful on day one.
 
-**Live product.** Personas work without any payment. Optional paid setup help is listed at the bottom — request link TBD; nothing here blocks on humans.
+**Live product.** Personas work without any payment. Optional paid setup help is listed at the bottom (live Revolut link); nothing here blocks on humans.
 
 ## What's inside
 
@@ -45,5 +45,5 @@ If you want someone to install + tune these bots for you:
 - **€29** — install one persona + first-wake check  
 - **€72** — full pack install + light customization  
 
-Pay via Wise or Revolut — **request link TBD** (placeholder until a live receive link exists).  
+Pay: [Revolut.me/sigiedn4xr](https://revolut.me/sigiedn4xr)  
 Product above works without paying.
