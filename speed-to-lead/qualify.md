@@ -11,8 +11,6 @@ You want inbound email (or form→mail) answered in minutes with a short draft t
 
 | SKU | Price | What they pay for |
 |-----|------:|-------------------|
-| One persona install | **€29** | Speed-to-Lead bot installed + first-wake check |
-| Full pack + tune | **€72** | Full starter pack personas + light customization |
 
 **Public pay link (only):** [buyer public pay link]  
 

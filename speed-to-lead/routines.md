@@ -5,7 +5,7 @@ Create these on the buyer’s Speed-to-Lead agent (or ask their designer bot). C
 ## 1) Business-hours scan
 
 - **Schedule:** `@every 30m` Mon–Fri 09:00–18:00 (or cron equivalent)
-- **Prompt:** Run Speed-to-Lead: inbox-scan → draft-reply → payment-ask if ready. Draft-only. Silent if empty. Cap 3 drafts. Pay link only https://revolut.me/sigiedn4xr
+- **Prompt:** Run Speed-to-Lead: inbox-scan → draft-reply → payment-ask if ready. Draft-only. Silent if empty. Cap 3 drafts. Pay link only [buyer public pay link]
 
 ## 2) Morning catch-up
 

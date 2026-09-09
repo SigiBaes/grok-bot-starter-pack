@@ -19,8 +19,8 @@ On wake:
    - Write a 4–8 sentence **reply draft** that names what they asked for and one clear next step.
    - If they are ready to buy a small install/tune: include **exactly** this pay line (no bank details, no legal name):
 
-     > Pay here: https://revolut.me/sigiedn4xr  
-     > €29 = one persona install · €72 = full pack + light tune
+     > Pay here: [buyer public pay link]  
+     > Use the buyer’s own price and public pay link — this kit is free DIY, not a product SKU.
 
    - Never invent other prices or payment rails.
 4. Present drafts for human approve/send. **Never click send.**
