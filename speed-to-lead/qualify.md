@@ -37,3 +37,11 @@ Do **not** put bank account numbers, BIC, or beneficiary name in any public copy
 **Noise** if: receipt, GitHub, SaaS product mail, cold blast, “unsubscribe”, no ask.
 
 Cap: ≤3 act drafts per wake. Silent if empty.
+
+## Your offer (DFY customize)
+
+Replace this section on paid install with the buyer’s real offer, price, and pay link (public Revolut.me only — never IBAN in public materials).
+
+- **Offer name:** [BUYER_OFFER]
+- **Price:** [BUYER_PRICE]
+- **Pay link:** https://revolut.me/sigiedn4xr (or buyer’s own public link)
