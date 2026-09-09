@@ -32,6 +32,23 @@ If you already have a bot that can call `CreateAgent`, give it the persona file 
 - Cap token burn: one connector, narrow query, stop when the brief is done.
 - No new KYC / Stripe / Whop from these bots.
 
+
+## Speed-to-Lead starter kit (sellable)
+
+Ready-to-paste kit for **inbox → draft → [Revolut.me](https://revolut.me/sigiedn4xr) payment ask** (draft-only).
+
+| File | Purpose |
+|------|---------|
+| [speed-to-lead/qualify.md](speed-to-lead/qualify.md) | Who it’s for + qualify rules |
+| [speed-to-lead/SYSTEM.md](speed-to-lead/SYSTEM.md) | Full system / persona prompt |
+| [speed-to-lead/skills/](speed-to-lead/skills/) | 3 skills: inbox-scan, draft-reply, payment-ask |
+| [speed-to-lead/routines.md](speed-to-lead/routines.md) | Suggested routines |
+| [BUY.md](BUY.md) | €29 / €72 offer + how to claim after pay |
+
+**What a buyer gets:** installed persona(s), skills/routines wired, first-wake check.  
+**Deliver-after-pay:** open a GitHub issue on this repo (or email) with SKU + contact — see [BUY.md](BUY.md).  
+**Pay:** [revolut.me/sigiedn4xr](https://revolut.me/sigiedn4xr) only — never bank details or legal name in public.
+
 ## License
 
 MIT — use, fork, sell setups. Attribution appreciated, not required.
@@ -40,10 +57,11 @@ MIT — use, fork, sell setups. Attribution appreciated, not required.
 
 ## Optional: paid setup help
 
-If you want someone to install + tune these bots for you:
+Full offer copy: **[BUY.md](BUY.md)**
 
-- **€29** — install one persona + first-wake check  
-- **€72** — full pack install + light customization  
+- **€29** — one persona install + first-wake check  
+- **€72** — full pack + Speed-to-Lead kit tune  
 
-Pay: [Revolut.me/sigiedn4xr](https://revolut.me/sigiedn4xr)  
-Product above works without paying.
+Pay: [Revolut.me/sigiedn4xr](https://revolut.me/sigiedn4xr) only.  
+After pay: GitHub issue or email with SKU + contact → deliverable ships when pay clears.  
+DIY from this repo stays free.
