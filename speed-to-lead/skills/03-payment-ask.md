@@ -4,12 +4,12 @@
 
 ## Steps
 
-1. Confirm the offer fits €29 (one persona) or €72 (full pack + tune).
+1. Confirm the offer fits [price] (one persona) or [price] (full pack + tune).
 2. Append **only** this block to the draft (no bank details, no name, no BIC):
 
 ```text
-Pay here: https://revolut.me/sigiedn4xr
-€29 = one persona install · €72 = full pack + light tune
+Pay here: [buyer public pay link]
+[price] = one persona install · [price] = full pack + light tune
 After payment: open a GitHub issue on this repo (or email the seller) with your Gmail + which SKU — deliverable ships after pay clears.
 ```
 

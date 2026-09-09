@@ -14,7 +14,7 @@ You want inbound email (or form→mail) answered in minutes with a short draft t
 | One persona install | **€29** | Speed-to-Lead bot installed + first-wake check |
 | Full pack + tune | **€72** | Full starter pack personas + light customization |
 
-**Public pay link (only):** https://revolut.me/sigiedn4xr  
+**Public pay link (only):** [buyer public pay link]  
 
 Do **not** put bank account numbers, BIC, or beneficiary name in any public copy.
 
@@ -44,4 +44,4 @@ Replace this section on paid install with the buyer’s real offer, price, and p
 
 - **Offer name:** [BUYER_OFFER]
 - **Price:** [BUYER_PRICE]
-- **Pay link:** https://revolut.me/sigiedn4xr (or buyer’s own public link)
+- **Pay link:** [buyer’s own public pay link]

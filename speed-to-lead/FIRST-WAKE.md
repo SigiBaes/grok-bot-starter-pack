@@ -11,13 +11,13 @@ Run this **once** after install. Goal: prove the desk drafts (never sends) on a 
 
 ## Script (say this to the bot)
 
-> Scan my authorized inbox for warm leads in the last 14 days that match my qualify rules. Rank the top 3. For #1 only: draft a reply that answers their first questions and includes a soft payment ask with https://revolut.me/sigiedn4xr (or my pay link). **Do not send.** Show me the draft.
+> Scan my authorized inbox for warm leads in the last 14 days that match my qualify rules. Rank the top 3. For #1 only: draft a reply that answers their first questions and includes a soft payment ask with my public pay link (if I have one). **Do not send.** Show me the draft.
 
 ## What good looks like
 
 - A ranked list (or “none found”) with one-line why.
 - One draft reply in your voice, short enough to approve in one glance.
-- Payment ask uses your public Revolut.me (or agreed link) — **no IBAN / legal name**.
+- Payment ask uses your own public pay link if you have one — **never IBAN / legal name in public drafts**.
 - Bot stops without sending.
 
 ## Sample draft transcript (example)
@@ -31,8 +31,7 @@ Draft for #1 (NOT sent):
 
 Hey Alex — yes, we stand up a Speed-to-Lead desk on your Gmail: drafts in minutes, you tap send.
 Two quick ones: (1) roughly how many inbound leads/week? (2) do you already use Grok Bot / Cursor agents?
-If you want DFY install, it’s €72 (or €29 for one desk) — pay here when ready: https://revolut.me/sigiedn4xr
-Happy to adjust the qualify rules to your offer first.
+If useful, I can adjust the qualify rules to your offer — drafts only until you say send.
 
 You: looks good — I’ll send it myself.
 ```
